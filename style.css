@@ -21,4 +21,9 @@
   text-decoration: none;
   display: inline-block;
 } 
+#pic style{
+    size: 100px;
+}
+#1{
+    background-color: white;
 }
