@@ -6,6 +6,11 @@
 }
 .width{
     width: 50%;
+    
+}
+#marginA{
+    padding: 30px;
+    margin-left: 20px;
 }
 #color{
     color: chocolate;
@@ -13,7 +18,7 @@
 .border{
     border-left: 2px solid orange;
 }
-#style{
+.styleA{
     background-color: #f44336;
   color: white;
   padding: 14px 25px;
@@ -61,18 +66,19 @@
 #cboxcolor{
     background-color: darksalmon;
 }
-#bbox{
-    height: 300px;
-    width: 500px;
-    padding: 5px;
-    border: 1px solid papayawhip;
-    margin: 30px;
-    text-align: center;
-    background-color: rosybrown;
+#imgst{
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+    margin-left: 30px;
 }
-#cpic{
-    height: 500px;
-    width:400px ;
+#BOXR{
+    padding-left: 10px;
+    padding-right: 30px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
     
-}
+
 
