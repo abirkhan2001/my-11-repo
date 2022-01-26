@@ -22,13 +22,19 @@
   display: inline-block;
 } 
 #pic style{
-    size: 100px;
+    height: 200px;
+    width: 100px;
 }
-#1{
-    background-color: white;
+#spancolor{
+    color: wheat;
 }
 .widthside{
-    width:auto;
+    height: 300px;
+    width: 500px;
+    padding: 5px;
+    border: 2px solid papayawhip;
+    margin: 6px;
+    text-align: center;
 }
 #agline{
     text-align: center;
@@ -36,3 +42,23 @@
 .sizeing{
     size: 100px;
 }
+#a back groundcolor{
+    background-color: lightblue;
+}
+.imgfxt {
+    height: 100px;
+    width: 60px;
+}
+#center{
+    text-align: center;
+}
+#aboxcolor{
+    background-color: seashell;
+}
+#bboxcolor{
+    background-color: cornsilk;
+}
+#cboxcolor{
+    background-color: darksalmon;
+}
+
