@@ -78,6 +78,30 @@
     margin-left: 20px;
     margin-right: 50px;
 }
+#imgE{
+    height: 300px;
+    width: 400px;
+    padding: 30px;
+    margin-left: 20px;
+    
+}
+#styleE{
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 10px;
+    margin-left: 30px;
+}
+#safe{
+    color: darkgoldenrod;
+}
+#full-width{
+    height: 60px;
+    width: 100%;
+    background-color:black;
+    color:white
+    text-align: center;
+}
+  
 
     
 
