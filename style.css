@@ -61,4 +61,18 @@
 #cboxcolor{
     background-color: darksalmon;
 }
+#bbox{
+    height: 300px;
+    width: 500px;
+    padding: 5px;
+    border: 1px solid papayawhip;
+    margin: 30px;
+    text-align: center;
+    background-color: rosybrown;
+}
+#cpic{
+    height: 500px;
+    width:400px ;
+    
+}
 
