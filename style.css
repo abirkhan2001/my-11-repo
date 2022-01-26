@@ -1,0 +1,24 @@
+.fnt-family{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.disply{
+    display: flex;
+}
+.width{
+    width: 50%;
+}
+#color{
+    color: chocolate;
+}
+.border{
+    border-left: 2px solid orange;
+}
+#style{
+    background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+} 
+}
